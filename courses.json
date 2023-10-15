@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "course_name": "Full-Stack Web Development Bootcamp",
+    "image": "https://i.ibb.co/Lpz2thX/dev-5.jpg",
+    "expert_name": "John Smith",
+    "card_bg_color": "#C70039"
+  },
+  {
+    "id": 2,
+    "course_name": "Mastering HTML and CSS",
+    "image": "https://i.ibb.co/kmSvW6K/html-css.jpg",
+    "expert_name": "Emily Parker",
+    "card_bg_color": "#7D3C98"
+  },
+  {
+    "id": 3,
+    "course_name": "JavaScript Fundamentals and Beyond",
+    "image": "https://i.ibb.co/KGDdxqk/js.jpg",
+    "expert_name": "David Wilson",
+    "card_bg_color": "#FFC300"
+  },
+  {
+    "id": 4,
+    "course_name": "Backend Development with Node.js",
+    "image": "https://i.ibb.co/02qY1F4/backend-development.jpg",
+    "expert_name": "Michael Brown",
+    "card_bg_color": "#138D75"
+  },
+  {
+    "id": 5,
+    "course_name": "Frontend Frameworks: React and Express.js",
+    "image": "https://i.ibb.co/BPZLf0x/react-express.jpg",
+    "expert_name": "Sarah Johnson",
+    "card_bg_color": "#138D75"
+  },
+  {
+    "id": 6,
+    "course_name": "Database Design and Management",
+    "image": "https://i.ibb.co/DWjDSnQ/data-base-design.jpg",
+    "expert_name": "Alicia Martinez",
+    "card_bg_color": "#FFC300"
+  },
+  {
+    "id": 7,
+    "course_name": "Server-Side Development with Express.js",
+    "image": "https://i.ibb.co/rMc4kbm/server-side.jpg",
+    "expert_name": "Robert Turner",
+    "card_bg_color": "#7D3C98"
+  },
+  {
+    "id": 8,
+    "course_name": "Authentication and Security in Web Apps",
+    "image": "https://i.ibb.co/SKGRgdn/Authentication-and-Security.jpg",
+    "expert_name": "Jennifer Adams",
+    "card_bg_color": "#C70039"
+  },
+  {
+    "id": 9,
+    "course_name": "RESTful API Development and Integration",
+    "image": "https://i.ibb.co/YRVNLFk/RESTful-API-Development-and-Integration.jpg",
+    "expert_name": "Maria Lopez",
+    "card_bg_color": "#C70039"
+  },
+  {
+    "id": 10,
+    "course_name": "Deploying and Scaling Web Applications",
+    "image": "https://i.ibb.co/2j3pSSv/Deploying-and-Scaling-Web-Applications.jpg",
+    "expert_name": "Richard Clark",
+    "card_bg_color": "#7D3C98"
+  }
+]
